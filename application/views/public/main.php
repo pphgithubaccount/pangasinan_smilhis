@@ -11,7 +11,7 @@
       <div class="row">
         <div class="large-12 columns">
           <div class="callout secondary">
-            <h3> PROVINCE OF_PANGASINAN</h3>
+            <h3> PROVINCE OF PANGASINAN</h3>
             <p>
 
             Guided by the shared mission of Pangasinan: “To be Number one,” the leaders and the people of the province bonded together to transform Pangasinan as the best place to invest, work, live and raise a family.</p>
